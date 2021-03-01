@@ -1,2 +1,2 @@
-# Complex-function
-Complex function class materials of CUC
+# 复变函数
+中国传媒大学课程《复变函数》笔记以及作业
